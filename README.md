@@ -1,5 +1,5 @@
 👋 Hi, I’m @SarahHannes
-<br>👀 I’m interested in Machine Learning and how to create impactful *(soulful)* visualizations ✨
+<br>👀 I’m interested in Machine Learning and impactful *(soulful)* visualizations ✨
 <br>🌱 I’m currently learning ML Algorithms using SKlearn
 <br>📫 Reach out to me <a href="https://twitter.com/saraahannes">@saraahannes</a>
 <!---
